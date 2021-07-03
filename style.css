@@ -8,3 +8,22 @@ h1{
 .orange-color{
     color: orange;
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 600;
+}
